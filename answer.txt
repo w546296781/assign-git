@@ -1,4 +1,4 @@
-? What is a gitignore file and what should it include for a Java project?
-? What does fast-forward in Git mean?
-? Why should you have different branches?
-? In a project how many remote Git repositories do you usually have?
+1、What is a gitignore file and what should it include for a Java project?
+2、What does fast-forward in Git mean?
+3、Why should you have different branches?
+4、In a project how many remote Git repositories do you usually have?
